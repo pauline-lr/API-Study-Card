@@ -1,0 +1,19 @@
+pseudo: un-utilisateur
+password: password
+status: client
+
+pseudo: un-etudiant
+password: motdepassesecret
+status: client
+
+pseudo: pauline
+password: password
+status: admin
+
+pseudo: jonathan
+password: password
+status: admin
+
+pseudo: benjamin
+password: motdepasse
+status: admin
